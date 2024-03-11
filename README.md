@@ -14,7 +14,7 @@ Assign the value of the first variable to the second variable.
 ### Step 4:  
 Assign the value in temporary variable to the first variable
 ### Step 5: 
-Print both the values it would be interchanged
+Print both the values it would be interchanged.
 ### Step 6: 
 End the program
 ## PROGRAM:
