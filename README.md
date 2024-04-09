@@ -1,4 +1,4 @@
-# Swapping-two-values
+ ## EXP 01 Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -21,8 +21,18 @@ End the program
 
 
 
-## OUTPUT:
 
+#Developed by: VISWANADHAM VENKATA SAI SRUTHI
+#RegisterNumber:212223100061
+a=int(input())
+b=int(input())
+temp=a
+a=b
+b=temp
+print("Swapped values are:",a,b)
+
+## OUTPUT:
+![alt text](SWAP.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
