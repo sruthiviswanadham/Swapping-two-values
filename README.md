@@ -19,7 +19,7 @@ Print both the values it would be interchanged.
 End the program
 ## PROGRAM:
 
-
+```
 
 
 #Developed by: VISWANADHAM VENKATA SAI SRUTHI
@@ -30,6 +30,7 @@ temp=a
 a=b
 b=temp
 print("Swapped values are:",a,b)
+```
 
 ## OUTPUT:
 ![alt text](SWAP.png)
